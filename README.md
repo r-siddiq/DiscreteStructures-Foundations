@@ -48,9 +48,9 @@ From the repository root:
 cmake -S . -B build -G "Visual Studio 17 2022"
 cmake --build build --config Release
 # Run executables:
-.uild\Release\DeMorgansLaws.exe
-.uild\Release\QuantsContas.exe
-.uild\Release\SetOperations.exe
+.\build\Release\DeMorgansLaws.exe
+.\build\Release\QuantsContas.exe
+.\build\Release\SetOperations.exe
 # ... etc.
 ```
 
